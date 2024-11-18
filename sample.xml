@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<request>
+  <BatchId>12345</BatchId>
+  <MemberDataFileName>sample.xml</MemberDataFileName>
+  <PostedDate>08/06/2020</PostedDate>
+  <MailDate>08/06/2020</MailDate>
+  <Campaign>CAMP1,123</Campaign>
+  <BatchType>TEST</BatchType>
+  <NoOfOrders>1</NoOfOrders>
+  <Orders>    
+    <Order>
+      <OrderID>"Order1"</OrderID>
+      <OrderSequence>1</OrderSequence>
+      <OrderDate>08/06/2020</OrderDate>
+      <Member>
+        <MemberFullName>Sample D John</MemberFullName>
+        <Addr1>1234 street </Addr1>
+        <Addr2 />
+        <City>Texas</City>
+        <State>MI</State>
+        <ZipCode>12345-9999</ZipCode>
+        <Longitude></Longitude>
+        <Latitude></Latitude>
+        <HumanBarcode>1234567890 001</HumanBarcode>
+        <Barcode_2D>12345678980</Barcode_2D>
+      </Member>
+      <Components>
+        <PlanType>TEST</PlanType>
+        <DirectoryType>TEST</DirectoryType>
+        <ProviderDir>Y</ProviderDir>
+        <PharmacyDir>Y</PharmacyDir>
+        <GroupNumber>65886658</GroupNumber>
+      </Components>
+      <ReturnFiles>
+        <PrintFile>SAMPLE.pdf</PrintFile>
+      </ReturnFiles>
+    </Order>
+  </Orders>
+</request>

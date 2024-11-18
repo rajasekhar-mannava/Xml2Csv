@@ -1,0 +1,2 @@
+BatchId,MemberDataFileName,PostedDate,MailDate,Campaign,BatchType,NoOfOrders,OrderID,OrderSequence,OrderDate,MemberFullName,Addr1,Addr2,City,State,ZipCode,Longitude,Latitude,HumanBarcode,Barcode_2D,PlanType,DirectoryType,ProviderDir,PharmacyDir,GroupNumber,PrintFile
+12345,sample.xml,08/06/2020,08/06/2020,"CAMP1,123",TEST,1,"""Order1""",1,08/06/2020,Sample D John,1234 street,,Texas,MI,12345-9999,,,1234567890 001,12345678980,TEST,TEST,Y,Y,65886658,SAMPLE.pdf
